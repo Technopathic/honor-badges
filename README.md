@@ -1,34 +1,21 @@
-# Welcome to Remix!
+# Honor Badges
 
-- [Remix Docs](https://remix.run/docs)
+ Many people cannot imagine their open source work being used in unwanted or criminal ways. While these badges may not legally prevent them from using your work, it will let people know you stand opposed to your work being used to harm others.
 
-## Deployment
+## Why I built this
+Lately there's been a lot of controversy surrounding Crypto and NFTs. I recently began investigating the legality of a crypto company indirectly using an open-source project for profit. For example, tokenizing an A.I. image generation, using an open-source project, is quite the grey area. Either way, I just really wanted to take a more affirmative stand on my beliefs on how and why people should be using whatever I may create. There might be others who feel the same way. 
 
-After having run the `create-remix` command and selected "Vercel" as a deployment target, you only need to [import your Git repository](https://vercel.com/new) into Vercel, and it will be deployed.
+## Build with
+* Remix (It's first Remix project)
+* EmotionJS
+* React-Icons
 
-If you'd like to avoid using a Git repository, you can also deploy the directory by running [Vercel CLI](https://vercel.com/cli):
+## License
+MIT
 
-```sh
-npm i -g vercel
-vercel
-```
-
-It is generally recommended to use a Git repository, because future commits will then automatically be deployed by Vercel, through its [Git Integration](https://vercel.com/docs/concepts/git).
-
-## Development
-
-To run your Remix app locally, make sure your project's local dependencies are installed:
-
-```sh
-npm install
-```
-
-Afterwards, start the Remix development server like so:
-
-```sh
-npm run dev
-```
-
-Open up [http://localhost:3000](http://localhost:3000) and you should be ready to go!
-
-If you're used to using the `vercel dev` command provided by [Vercel CLI](https://vercel.com/cli) instead, you can also use that, but it's not needed.
+## Badges
+![noCrypto](https://honorbadges.com/badge/noCrypto.png)
+![noNFTs](https://honorbadges.com/badge/noNFTs.png)
+![noTracking](https://honorbadges.com/badge/noTracking.png)
+![noViolence](https://honorbadges.com/badge/noViolence.png)
+![noTrafficking](https://honorbadges.com/badge/noTrafficking.png)
