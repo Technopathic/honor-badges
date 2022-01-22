@@ -40,7 +40,7 @@ export default function App() {
         <meta name="og:image:width" property="og:image:width" content="1200" />
         <meta name="og:image:height" property="og:image:height" content="630" />
 
-        <link rel="preload" href="/fonts/wonder.ttf" as="font" type="font/ttf" crossorigin="anonymous" />
+        <link rel="preload" href="/fonts/8wonder.ttf" as="font" type="font/ttf" crossorigin="anonymous" />
         <link rel="preload" href="/fonts/Inter-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous" />
         <link rel="preload" href="/fonts/Inter-Bold.ttf" as="font" type="font/ttf" crossorigin="anonymous" />
       </head>
@@ -49,7 +49,7 @@ export default function App() {
           styles={css`
             @font-face {
               font-family: "wonder";
-              src: url(/fonts/wonder.ttf) format("truetype");
+              src: url(/fonts/8wonder.ttf) format("truetype");
               font-weight: normal;
               font-style: normal;
               font-display: swap;
