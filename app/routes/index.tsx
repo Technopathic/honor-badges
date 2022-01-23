@@ -307,6 +307,11 @@ const Index = () => {
             Click a badge above to copy its link, then paste the link into your project's readme file.
           </p>
         </Information>
+        <Information>
+          <p className="infoTitle">Sponsorship</p>
+          <p>Hey! I'm Ren and I enjoy working on open-source projects. If you sponsor me, I will greatly appreciate it.</p>
+          <iframe src="https://github.com/sponsors/Technopathic/button" title="Sponsor Technopathic" height="35" width="116" style="border: 0;"></iframe>
+        </Information>
         <Footer>
           Made with&nbsp;<span className="heart">❤</span>&nbsp;in Helsinki by&nbsp;<a href="https://twitter.com/NowNanoTV" target="_blank" rel="noopener noreferrer">NowNano</a>
         </Footer>

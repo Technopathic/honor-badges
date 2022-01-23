@@ -14,8 +14,8 @@ Lately there's been a lot of controversy surrounding Crypto and NFTs. I recently
 MIT
 
 ## Badges
-![noCrypto](https://honorbadges.com/badge/noCrypto.png)
-![noNFTs](https://honorbadges.com/badge/noNFTs.png)
-![noTracking](https://honorbadges.com/badge/noTracking.png)
-![noViolence](https://honorbadges.com/badge/noViolence.png)
-![noTrafficking](https://honorbadges.com/badge/noTrafficking.png)
+![noCrypto](https://honorbadges.com/badges/noCrypto.png)
+![noNFTs](https://honorbadges.com/badges/noNFTs.png)
+![noTracking](https://honorbadges.com/badges/noTracking.png)
+![noViolence](https://honorbadges.com/badges/noViolence.png)
+![noTrafficking](https://honorbadges.com/badges/noTrafficking.png)
