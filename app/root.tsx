@@ -39,6 +39,8 @@ export default function App() {
         <meta name="og:image:type" property="og:image:type" content="image/png" />
         <meta name="og:image:width" property="og:image:width" content="1200" />
         <meta name="og:image:height" property="og:image:height" content="630" />
+        <meta name="og:image" property="og:image" content="https://honorbadges.com/og-image.png" />
+        <meta name="og:image:secure_url" property="og:image:secure_url" content="https://honorbadges.com/og-image.png" />
 
         <link rel="preload" href="/fonts/8wonder.ttf" as="font" type="font/ttf" crossorigin="anonymous" />
         <link rel="preload" href="/fonts/Inter-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous" />
